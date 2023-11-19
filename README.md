@@ -1,4 +1,4 @@
-## SCIENCE COMPUTER | OFFENSIVE SECURITY
+### SCIENCE COMPUTER && OFFENSIVE SECURITY
 ![](https://img.shields.io/badge/Discord-7289DA?style=casual&logo=discord&logoColor=white&label=@rickporto)
 ![](https://img.shields.io/badge/Instagram-E4405F?style=casual&logo=instagram&logoColor=white&label=@rickporto_&link=https://www.instagram.com/@rickporto_)
 ![](https://img.shields.io/badge/YouTube-FF0000?style=casual&logo=youtube&logoColor=white&label=@rickporto&link=https://www.youtube.com/@rickporto)
